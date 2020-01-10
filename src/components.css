@@ -1,0 +1,7 @@
+.btn{
+    @apply border bg-gray-900 m-1 text-6xl;
+}
+
+.navBar{
+    @apply text-teal-400 text-4xl flex justify-center
+}
